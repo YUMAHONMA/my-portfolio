@@ -1,0 +1,59 @@
+header {
+  display: flex;
+  width: 100%;
+  height: 8%;
+  background-color: #88ffff;
+  align-items: center;
+  position: fixed;
+}
+
+.title {
+  margin-right: auto;
+}
+
+.menu-item {
+  list-style: none;
+  display: inline-block;
+  padding: 10px;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 150px;
+  margin-bottom: 50px;
+}
+.myprofile {
+  width: 100%;
+  height: 200px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.myprofile-container {
+  width: 45%;
+  height: 100px;
+}
+.myplofile-detail {
+  margin: 0%;
+  padding: 0%;
+}
+h4 {
+  margin-top: 150px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+.hobbeis {
+  width: 100%;
+  height: 200px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.hobbeis-container {
+  width: 45%;
+  height: 100px;
+}
+.hobbeis-detail {
+  margin: 0%;
+  padding: 0%;
+}
